@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/home/remy/Programmes/apache-activemq-5.11.1/activemq-all-5.11.1.jar"/>
-	<classpathentry kind="lib" path="/opt/eclipse/plugins/javaee.jar"/>
-	<classpathentry kind="lib" path="/opt/eclipse/plugins/javax.jms.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
